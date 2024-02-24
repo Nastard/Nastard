@@ -30,6 +30,6 @@
 ![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 
 #### Top Repositories
-|[![F1Department](https://github-readme-stats.vercel.app/api/pin/?username=nastard&repo=F1Department&theme=dark&show_owner=true)](https://github.com/Nastard/F1Department)|[![CC-Servicios-y-Aplicaciones](https://github-readme-stats.vercel.app/api/pin/?username=nastard&repo=CC-Servicios-y-Aplicaciones&theme=dark&show_owner=true)](https://github.com/Nastard/CC-Servicios-y-Aplicaciones)|
+|[![F1Department](https://github-readme-stats.vercel.app/api/pin/?username=nastard&repo=F1Department&theme=dark&show_owner=true)](https://github.com/Nastard/F1Department)|[![SWAP](https://github-readme-stats.vercel.app/api/pin/?username=nastard&repo=SWAP&theme=dark&show_owner=true)](https://github.com/Nastard/SWAP)|
 |---|---|
-|[![DIPOMAC](https://github-readme-stats.vercel.app/api/pin/?username=nastard&repo=DIPOMAC&theme=dark&show_owner=true)](https://github.com/Nastard/DIPOMAC)|[![SWAP](https://github-readme-stats.vercel.app/api/pin/?username=nastard&repo=SWAP&theme=dark&show_owner=true)](https://github.com/Nastard/SWAP)|
+|[![DIPOMAC](https://github-readme-stats.vercel.app/api/pin/?username=nastard&repo=DIPOMAC&theme=dark&show_owner=true)](https://github.com/Nastard/DIPOMAC)|[![LightClassVR](https://github-readme-stats.vercel.app/api/pin/?username=nastard&repo=LightClassVR&theme=dark&show_owner=true)](https://github.com/Nastard/LightClassVR)|
