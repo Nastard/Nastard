@@ -32,4 +32,4 @@
 #### Top Repositories
 |[![F1Department](https://github-stats-extended.vercel.app/api/pin/?username=nastard&repo=F1Department&theme=dark&show_owner=true)](https://github.com/Nastard/F1Department)|[![SWAP](https://github-stats-extended.vercel.app/api/pin/?username=nastard&repo=SWAP&theme=dark&show_owner=true)](https://github.com/Nastard/SWAP)|
 |---|---|
-|[![DIPOMAC](https://github-stats-extended.app/api/pin/?username=nastard&repo=DIPOMAC&theme=dark&show_owner=true)](https://github.com/Nastard/DIPOMAC)|[![LightClassVR](https://github-stats-extended.vercel.app/api/pin/?username=nastard&repo=LightClassVR&theme=dark&show_owner=true)](https://github.com/Nastard/LightClassVR)|
+|[![DIPOMAC](https://github-stats-extended.vercel.app/api/pin/?username=nastard&repo=DIPOMAC&theme=dark&show_owner=true)](https://github.com/Nastard/DIPOMAC)|[![LightClassVR](https://github-stats-extended.vercel.app/api/pin/?username=nastard&repo=LightClassVR&theme=dark&show_owner=true)](https://github.com/Nastard/LightClassVR)|
