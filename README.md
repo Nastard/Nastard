@@ -1,7 +1,7 @@
 ### Hi, I'm Nastard!
 - 💼 I’m currently working on **NTTData**, in **Salesforce** department.
 
-|![Nastard's GitHub stats](https://github-readme-stats.vercel.app/api?username=nastard&show_icons=true&theme=dark)|![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nastard&langs_count=8&layout=compact&theme=dark)|
+|![Nastard's GitHub stats](https://github-stats-extended.vercel.app/api?username=nastard&show_icons=true&theme=dark)|![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=nastard&langs_count=8&layout=compact&theme=dark)|
 |---|---|
 
 #### Known programming languages ​​and tools:
@@ -30,6 +30,6 @@
 ![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 
 #### Top Repositories
-|[![F1Department](https://github-readme-stats.vercel.app/api/pin/?username=nastard&repo=F1Department&theme=dark&show_owner=true)](https://github.com/Nastard/F1Department)|[![SWAP](https://github-readme-stats.vercel.app/api/pin/?username=nastard&repo=SWAP&theme=dark&show_owner=true)](https://github.com/Nastard/SWAP)|
+|[![F1Department](https://github-stats-extended.vercel.app/api/pin/?username=nastard&repo=F1Department&theme=dark&show_owner=true)](https://github.com/Nastard/F1Department)|[![SWAP](https://github-stats-extended.vercel.app/api/pin/?username=nastard&repo=SWAP&theme=dark&show_owner=true)](https://github.com/Nastard/SWAP)|
 |---|---|
-|[![DIPOMAC](https://github-readme-stats.vercel.app/api/pin/?username=nastard&repo=DIPOMAC&theme=dark&show_owner=true)](https://github.com/Nastard/DIPOMAC)|[![LightClassVR](https://github-readme-stats.vercel.app/api/pin/?username=nastard&repo=LightClassVR&theme=dark&show_owner=true)](https://github.com/Nastard/LightClassVR)|
+|[![DIPOMAC](https://github-stats-extended.app/api/pin/?username=nastard&repo=DIPOMAC&theme=dark&show_owner=true)](https://github.com/Nastard/DIPOMAC)|[![LightClassVR](https://github-stats-extended.vercel.app/api/pin/?username=nastard&repo=LightClassVR&theme=dark&show_owner=true)](https://github.com/Nastard/LightClassVR)|
